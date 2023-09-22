@@ -10,7 +10,7 @@ const config: DocsThemeConfig = {
   // chat: {
   //   link: '',
   // },
-  docsRepositoryBase: '',
+  docsRepositoryBase: 'https://localhost:3000',
   footer: {
     text: 'Nextra docs with Tailwind',
   },
